@@ -1,0 +1,94 @@
+2025-06-13 21:34:32,834 - INFO - Starting sell trading bot...
+2025-06-13 21:34:32,857 - INFO - MT5 initialized successfully
+2025-06-13 21:34:32,898 - INFO - Current times:
+UTC: 19:34:32
+New York: 15:34:32
+London: 20:34:32
+Tokyo: 04:34:32
+Sydney: 05:34:32
+
+2025-06-13 21:34:32,899 - INFO - Session New York is active - Start: 13:00:00, End: 22:00:00 UTC
+2025-06-13 21:34:32,899 - INFO - Active trading sessions: New York
+2025-06-13 21:34:32,899 - INFO - Active currency pairs: USDCHF, EURCAD, XAUCHF, USDSGD, XAUUSD, USDJPY, USDCAD, CADJPY, XAUJPY, CADCHF, EURUSD
+2025-06-13 21:34:32,899 - INFO - Starting sell order placement cycle...
+2025-06-13 21:34:32,900 - INFO - Attempting to place sell orders for USDCHF at current price 0.81131
+2025-06-13 21:34:32,937 - INFO - Successfully placed 3 order for USDCHF at 0.81231
+2025-06-13 21:34:32,971 - INFO - Successfully placed 5 order for USDCHF at 0.81031
+2025-06-13 21:34:32,971 - INFO - Attempting to place sell orders for EURCAD at current price 1.5686499999999999
+2025-06-13 21:34:33,008 - INFO - Successfully placed 3 order for EURCAD at 1.56965
+2025-06-13 21:34:33,045 - INFO - Successfully placed 5 order for EURCAD at 1.56765
+2025-06-13 21:34:33,046 - INFO - Attempting to place sell orders for XAUCHF at current price 2786.27
+2025-06-13 21:34:33,081 - INFO - Successfully placed 3 order for XAUCHF at 2786.271
+2025-06-13 21:34:33,118 - INFO - Successfully placed 5 order for XAUCHF at 2786.269
+2025-06-13 21:34:33,120 - INFO - Attempting to place sell orders for USDSGD at current price 1.28203
+2025-06-13 21:34:33,159 - INFO - Successfully placed 3 order for USDSGD at 1.28303
+2025-06-13 21:34:33,194 - INFO - Successfully placed 5 order for USDSGD at 1.28103
+2025-06-13 21:34:33,197 - INFO - Attempting to place sell orders for XAUUSD at current price 3434.11
+2025-06-13 21:34:33,237 - INFO - Successfully placed 3 order for XAUUSD at 3434.111
+2025-06-13 21:34:33,276 - INFO - Successfully placed 5 order for XAUUSD at 3434.109
+2025-06-13 21:34:33,278 - INFO - Attempting to place sell orders for USDJPY at current price 143.882
+2025-06-13 21:34:33,319 - INFO - Successfully placed 3 order for USDJPY at 143.883
+2025-06-13 21:34:33,359 - INFO - Successfully placed 5 order for USDJPY at 143.881
+2025-06-13 21:34:33,360 - INFO - Attempting to place sell orders for USDCAD at current price 1.35919
+2025-06-13 21:34:33,394 - INFO - Successfully placed 3 order for USDCAD at 1.36019
+2025-06-13 21:34:33,471 - INFO - Successfully placed 5 order for USDCAD at 1.35819
+2025-06-13 21:34:33,472 - INFO - Attempting to place sell orders for CADJPY at current price 105.855
+2025-06-13 21:34:33,507 - INFO - Successfully placed 3 order for CADJPY at 105.856
+2025-06-13 21:34:33,541 - INFO - Successfully placed 5 order for CADJPY at 105.854
+2025-06-13 21:34:33,542 - INFO - Attempting to place sell orders for XAUJPY at current price 494114.0
+2025-06-13 21:34:33,580 - INFO - Successfully placed 3 order for XAUJPY at 494114.001
+2025-06-13 21:34:33,637 - INFO - Successfully placed 5 order for XAUJPY at 494113.999
+2025-06-13 21:34:33,638 - INFO - Attempting to place sell orders for CADCHF at current price 0.59686
+2025-06-13 21:34:33,676 - INFO - Successfully placed 3 order for CADCHF at 0.59786
+2025-06-13 21:34:33,713 - INFO - Successfully placed 5 order for CADCHF at 0.59586
+2025-06-13 21:34:33,715 - INFO - Attempting to place sell orders for EURUSD at current price 1.15415
+2025-06-13 21:34:33,752 - INFO - Successfully placed 3 order for EURUSD at 1.15515
+2025-06-13 21:34:33,792 - INFO - Successfully placed 5 order for EURUSD at 1.15315
+2025-06-13 21:34:33,792 - INFO - Completed sell order placement cycle
+2025-06-13 21:35:33,794 - INFO - Current times:
+UTC: 19:35:33
+New York: 15:35:33
+London: 20:35:33
+Tokyo: 04:35:33
+Sydney: 05:35:33
+
+2025-06-13 21:35:33,795 - INFO - Session New York is active - Start: 13:00:00, End: 22:00:00 UTC
+2025-06-13 21:35:33,796 - INFO - Active trading sessions: New York
+2025-06-13 21:35:33,797 - INFO - Active currency pairs: USDCHF, EURCAD, XAUCHF, USDSGD, XAUUSD, USDJPY, USDCAD, CADJPY, XAUJPY, CADCHF, EURUSD
+2025-06-13 21:35:33,798 - INFO - Starting sell order placement cycle...
+2025-06-13 21:35:33,799 - INFO - Attempting to place sell orders for USDCHF at current price 0.8113
+2025-06-13 21:35:33,854 - INFO - Successfully placed 3 order for USDCHF at 0.8123
+2025-06-13 21:35:33,917 - INFO - Successfully placed 5 order for USDCHF at 0.8103
+2025-06-13 21:35:33,919 - INFO - Attempting to place sell orders for EURCAD at current price 1.56872
+2025-06-13 21:35:33,955 - INFO - Successfully placed 3 order for EURCAD at 1.56972
+2025-06-13 21:35:33,998 - INFO - Successfully placed 5 order for EURCAD at 1.56772
+2025-06-13 21:35:33,999 - INFO - Attempting to place sell orders for XAUCHF at current price 2786.21
+2025-06-13 21:35:34,034 - INFO - Successfully placed 3 order for XAUCHF at 2786.211
+2025-06-13 21:35:34,071 - INFO - Successfully placed 5 order for XAUCHF at 2786.209
+2025-06-13 21:35:34,072 - INFO - Attempting to place sell orders for USDSGD at current price 1.282
+2025-06-13 21:35:34,115 - INFO - Successfully placed 3 order for USDSGD at 1.283
+2025-06-13 21:35:34,150 - INFO - Successfully placed 5 order for USDSGD at 1.281
+2025-06-13 21:35:34,151 - INFO - Attempting to place sell orders for XAUUSD at current price 3434.09
+2025-06-13 21:35:34,189 - INFO - Successfully placed 3 order for XAUUSD at 3434.091
+2025-06-13 21:35:34,222 - INFO - Successfully placed 5 order for XAUUSD at 3434.089
+2025-06-13 21:35:34,223 - INFO - Attempting to place sell orders for USDJPY at current price 143.902
+2025-06-13 21:35:34,261 - INFO - Successfully placed 3 order for USDJPY at 143.903
+2025-06-13 21:35:34,299 - INFO - Successfully placed 5 order for USDJPY at 143.901
+2025-06-13 21:35:34,300 - INFO - Attempting to place sell orders for USDCAD at current price 1.3592
+2025-06-13 21:35:34,340 - INFO - Successfully placed 3 order for USDCAD at 1.3602
+2025-06-13 21:35:34,377 - INFO - Successfully placed 5 order for USDCAD at 1.3582
+2025-06-13 21:35:34,378 - INFO - Attempting to place sell orders for CADJPY at current price 105.868
+2025-06-13 21:35:34,414 - INFO - Successfully placed 3 order for CADJPY at 105.869
+2025-06-13 21:35:34,448 - INFO - Successfully placed 5 order for CADJPY at 105.867
+2025-06-13 21:35:34,449 - INFO - Attempting to place sell orders for XAUJPY at current price 494180.0
+2025-06-13 21:35:34,487 - INFO - Successfully placed 3 order for XAUJPY at 494180.001
+2025-06-13 21:35:34,520 - ERROR - Failed to send 5 order on XAUJPY: 10015
+2025-06-13 21:35:34,522 - INFO - Attempting to place sell orders for CADCHF at current price 0.59684
+2025-06-13 21:35:34,569 - INFO - Successfully placed 3 order for CADCHF at 0.59784
+2025-06-13 21:35:34,606 - INFO - Successfully placed 5 order for CADCHF at 0.59584
+2025-06-13 21:35:34,608 - INFO - Attempting to place sell orders for EURUSD at current price 1.15419
+2025-06-13 21:35:34,641 - INFO - Successfully placed 3 order for EURUSD at 1.15519
+2025-06-13 21:35:34,676 - INFO - Successfully placed 5 order for EURUSD at 1.15319
+2025-06-13 21:35:34,677 - INFO - Completed sell order placement cycle
+2025-06-13 21:35:44,805 - INFO - Sell bot stopped by user.
+2025-06-13 21:35:44,806 - INFO - MT5 connection closed

@@ -1,0 +1,78 @@
+{
+    "risk_management": {
+        "default_risk_percent": 1.0,
+        "max_daily_loss_percent": 3.0,
+        "max_weekly_loss_percent": 7.0,
+        "max_open_positions": 5,
+        "max_positions_per_symbol": 2,
+        "correlation_threshold": 0.7
+    },
+    "trading_hours": {
+        "enabled": true,
+        "sessions": {
+            "london": {
+                "start": "08:00",
+                "end": "16:00",
+                "timezone": "Europe/London",
+                "active_days": [1, 2, 3, 4, 5]
+            },
+            "new_york": {
+                "start": "08:00",
+                "end": "17:00",
+                "timezone": "America/New_York",
+                "active_days": [1, 2, 3, 4, 5]
+            },
+            "tokyo": {
+                "start": "09:00",
+                "end": "18:00",
+                "timezone": "Asia/Tokyo",
+                "active_days": [1, 2, 3, 4, 5]
+            }
+        }
+    },
+    "default_timeframes": {
+        "analysis": ["H1", "H4", "D1"],
+        "execution": "M15",
+        "monitoring": "M5"
+    },
+    "default_symbols": [
+        "EURUSD", "GBPUSD", "USDJPY", "AUDUSD", 
+        "USDCAD", "NZDUSD", "EURGBP", "EURJPY"
+    ],
+    "indicators": {
+        "rsi": {
+            "period": 14,
+            "overbought": 70,
+            "oversold": 30
+        },
+        "macd": {
+            "fast_period": 12,
+            "slow_period": 26,
+            "signal_period": 9
+        },
+        "bollinger_bands": {
+            "period": 20,
+            "std_dev": 2.0
+        },
+        "moving_averages": {
+            "fast": 20,
+            "medium": 50,
+            "slow": 200
+        }
+    },
+    "backtesting": {
+        "default_start_date": "2022-01-01",
+        "default_end_date": "2022-12-31",
+        "commission_per_lot": 7.0,
+        "slippage_pips": 1.0,
+        "include_weekends": false,
+        "initial_balance": 10000.0
+    },
+    "news_trading": {
+        "enabled": true,
+        "impact_levels": ["high", "medium"],
+        "pre_news_minutes": 30,
+        "post_news_minutes": 60,
+        "avoid_trading_during_news": true
+    }
+} 

@@ -1,0 +1,6 @@
+{
+    "login": 0,
+    "password": "your_password",
+    "server": "your_broker_server",
+    "terminal_path": "C:/Program Files/MetaTrader 5/terminal64.exe"
+}
